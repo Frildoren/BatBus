@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatBus</string>
+    <string name="stop_number_hint">Parada</string>
+    <string name="send">Enviar</string>
+</resources>
